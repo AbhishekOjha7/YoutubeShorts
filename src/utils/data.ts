@@ -1,0 +1,66 @@
+export const DATA = [
+  {
+    title: '#First Video',
+    channelName: '@YT-shorts',
+    Video: require('../assets/video/reels1.mp4'),
+    profile: require('../assets/icon/account.png'),
+    length: 1,
+  },
+  {
+    title: '#Second Video',
+    channelName: '@YT-shorts',
+    Video: require('../assets/video/reels2.mp4'),
+    profile: require('../assets/icon/account.png'),
+    length: 0,
+  },
+  {
+    title: '#Third Video',
+    channelName: '@YT-shorts',
+    Video: require('../assets/video/reels3.mp4'),
+    profile: require('../assets/icon/account.png'),
+    length: 0,
+  },
+  // {
+  //   title: '#Fourth Video',
+  //   channelName: '@YT-shorts',
+  //   Video: require('../assets/video/reels4.mp4'),
+  //   profile: require('../assets/icon/account.png'),
+  //   length: 0,
+  // },
+  // {
+  //   title: '#Fourth Video',
+  //   channelName: '@YT-shorts',
+  //   Video: require('../assets/video/reels1.mp4'),
+  //   profile: require('../assets/icon/account.png'),
+  //   length: 0,
+  // },
+  // {
+  //   title: '#fifth Video',
+  //   channelName: '@YT-shorts',
+  //   Video: require('../assets/video/reels2.mp4'),
+  //   profile: require('../assets/icon/account.png'),
+
+  //   length: 1,
+  // },
+  // {
+  //   title: '#sixth Video',
+  //   channelName: '@YT-shorts',
+  //   Video: require('../assets/reels3.mp4'),
+  //   profile: require('../assets/icon/user.png'),
+  //   length: 1,
+  // },
+  // {
+  //   title: '#seven Video',
+  //   channelName: '@YT-shorts',
+  //   Video: require('../assets/reels4.mp4'),
+  //   profile: require('../assets/icon/user.png'),
+  //   length: 1,
+  // },
+  // {
+  //   title: '#eight Video',
+  //   channelName: '@YT-shorts',
+  //   Video: require('../assets/reels5.mp4'),
+  //   profile: require('../assets/icon/user.png'),
+  //   length: 0,
+  // },
+];
